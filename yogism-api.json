@@ -2004,44 +2004,54 @@
             "scheduled" : [
 
                 {
-                    "sanskrit_name" : "Halasana",
-                    "english_name" : "Plow Pose",
-                    "description":"This yoga pose gets its name from the plow – a popular farming tool commonly used in Indian agriculture to prepare the soil for sowing crops. Like its namesake, this pose prepares the ‘field’ of the body and mind for deep rejuvenation. Halasana is pronounced as hah-LAHS-uh-nuh.​ Parsva Halasana is an advanced variation of the Halasana.",
-                    "time" : "1.5 Min",
-                    "image": "https://www.healthshots.com/wp-content/uploads/2020/10/yoga-for-weight-loss-halasana.jpg",
-                    "benefits" : "Calms the brain Stimulates the abdominal organs and the thyroid gland Stretches the shoulders and spine Helps relieve the symptoms of menopause Reduces stress and fatigue Therapeutic for backache, headache, infertility, insomnia, sinusitis.",
+                    "sanskrit_name" : "Dhanurasana",
+                    "english_name" : "Bow Pose",
+                    "description": "Bow Pose (Dhanurasana) is an intermediate yoga pose similar to a backbend. It’s one of the 12 basic Hatha Yoga poses. By lifting your torso up and backward, the chest is opened and the back is deeply stretched. This pose is a great way to deeply stretch the back after a long day of hunching over. This yoga pose can be performed as part of your regular practice or within a sequence of back stretches. After your body is warmed up from some standing and floor poses, perform Bow Pose. This pose can also be used as preparation for a deeper backbend stretch. A final relaxation pose follows nicely.",
+                    "time" : "2 Min",
+                    "image": "https://47h07141n4wr3s4gyj49ii1d-wpengine.netdna-ssl.com/wp-content/uploads/2019/10/AdobeStock_193776647-1-e1572575824263.jpeg",
+                    "benefits" : "Bow Pose primarily benefits the chest and back. It’s natural for the body to bend backward, but this is rarely a position we find ourselves in. Bow Pose can be used to open up the chest and stretch out the back, which is especially beneficial for people who sit or stand for long periods of time. This yoga pose also opens up the neck, shoulders, and abdomen. It improves flexibility in the back and encourages balance in the core and chest. If you have a stiff back, Bow Pose may be beneficial. For people with a desk job, Bow Pose can help improve posture and alleviate the discomfort that slouching may cause.",
+                    "variations": "N/A",
+                    "category": "Intermediate",
+                    "target": "Benefits the chest and back",
+                    "steps": "Lie flat on your stomach. Keep your chin on the mat and your hands at your sides. Your hands should be palm up.\nExhale while you bend your knees. Bring your heels as close as you can to your buttocks. Your knees should be hip-width apart.\nLift your hands and take hold of your ankles. Be sure to grab the ankle and not the top part of the feet. Your fingers should wrap around the ankles, but your thumb does not. Keep your toes pointed.\nInhale and lift the heels away from the buttocks, keeping a hold of your ankles. Simultaneously, lift your head, chest, and thighs away from the mat. As you lift, rotate your shoulders safely and comfortably. At this point, only your core should touch the mat, while the rest of your body is lifted towards the ceiling.\nDraw your tailbone into the mat to deepen the stretch. You should feel the stretch in your back as the weight and balance shifts to your core. Your chest and shoulders should feel open.\nLook straight ahead and hold the pose for about 15 seconds while you focus on stretching, breathing, and balancing.\nExhale and release the pose. Lower your head, chest, thighs, and feet back towards the mat. Let go of your ankles and return to your hands to your side. Relax for a few seconds and repeat the pose as needed or continue to your next pose."
+                },
+                {
+                    "sanskrit_name" : "Bakasana",
+                    "english_name" : "Crow Pose",
+                    "description": "Bakasana, and the similar Kakasana are balancing asanas in hatha yoga and modern yoga as exercise. In all variations, these are arm balancing poses in which hands are planted on the floor, shins rest upon upper arms, and feet lift up.",
+                    "time" : "2 Min",
+                    "image": "https://images.ctfassets.net/p0sybd6jir6r/3wZVGNBNyiq7zpoKYngx7q/cb54f6fabf55069adabc2f62cff8ecf7/Fly-your-crow-pose-daae21e1342867989836994ae8e025c3.jpg?w=1600&q=70",
+                    "benefits" : "Crow Pose strengthens the wrist, forearms, and abdomen while stretching your upper back. It improves balance and core strength. Mastering Crow builds your yoga confidence and opens the door to many more poses involving arm balance. It can also improve your awareness of where your body is in space (called proprioception) and enhance your body control.",
+                    "variations": "Some people like to start out with a block under their feet. You can try this and see how it feels. Lift one foot at a time if you can't quite get both feet up yet. This helps you build strength and get a feel for the technique. ",
+                    "category": "Intermediate",
+                    "target": "It improves balance and core strength.",
+                    "steps": "Bend your knees slightly so that you can bring your palms flat on the floor, about shoulder distance apart.\nPlant your palms firmly on the mat about a foot in front of your feet. Spread your fingers wide and press into the top joint of each finger.\nBend your elbows straight back. Don't bend them into full Chaturanga arms, but head in that direction.\nCome up onto the balls of your feet and open your knees so that they line up with your upper arms.\nPlace your knees on the backs of your upper arms.\nBegin to bring your weight forward into your hands, lifting your head as you go.\nCome up onto your tiptoes, lifting one foot and then the other off the floor.\nEngage the inner thighs for support while keeping the knees on the arms.\nHug your feet toward your butt.\nFocus on the feeling of the body lifting. Avoid sinking into the pose, which can dump weight into the shoulders.\nTo come out, exhale and transfer your weight back until your feet come back to the floor."
+                },
+                {
+                    "sanskrit_name" : "Hanumanasana",
+                    "english_name" : "Monkey Pose",
+                    "description":"“It was the greatest leap ever taken. The speed of Hanuman’s jump pulled blossoms and flowers into the air after him and they fell like little stars on the waving treetops. The animals on the beach had never seen such a thing; they cheered Hanuman, then the air burned from his passage, and red clouds flamed over the sky .” (Ramayana, retold by William Buck). This pose then, in which the legs are split forward and back, mimics Hanuman’s famous leap from the southern tip of India to the island of Sri Lanka.",
+                    "time" : "1 Min",
+                    "image": "https://www.yogateket.com/image/original/splitspose.jpg",
+                    "benefits" : "Hanumanasana stretches and strengthens muscles in the hamstrings, thighs, and groin region. This yoga pose also stimulates the abdominal organs and improves their functioning. Regular practice of this pose ensures that the hips become more flexible over a period of time.",
                     "variations":"N/A",
                     "category":"Intermediate",
-                    "target":"Reduces backache and can help you get to sleep.",
-                    "steps":"Lie on your back with your arms beside you, palms downwards.\nAs you inhale, use your abdominal muscles to lift your feet off the floor, raising your legs vertically at a 90-degree angle.\nContinue to breathe normally and supporting your hips and back with your hands, lift them off the ground.\nAllow your legs to sweep in a 180-degree angle over your head till your toes touch the floor. Your back should be perpendicular to the floor. This may be difficult initially, but make an attempt for a few seconds.\nHold this pose and let your body relax more and more with each steady breath.\nAfter about a minute (a few seconds for beginners) of resting in this pose, you may gently bring your legs down on exhalation."
+                    "target":"Strengthens muscles in the hamstrings, thighs, and groin region.",
+                    "steps":"Start by kneeling on the floor with knees a little apart. Place your right foot forward and raise the inner sole such that only the outer heel touches the floor.\nAs you exhale, bend your torso forward and bring your fingertips to touch the floor.\nSlowly, move your left knee backward till the knee and the front of the foot touch the ground. Simultaneously slide your right leg forward till it touches the floor completely.\nSliding your left foot backward and right foot forward, come into a split position.\nThe toes of the right foot should be pointing skywards and the front of the left foot should be touching the ground.\nRaise your arms and join your palms. Stretch your arms and arch your back a little.\nStay in this position for a couple of breaths before bringing your arms back down.\nTo come out of this posture, shift the weight of the body on the hands by pressing them on the floor. Slowly slide your left and right feet back to the initial position before repeating the pose with the left leg in front and right leg behind."
                 },
-            
                 {
-                    "sanskrit_name" : "Adho Mukha Vrksasana",
-                    "english_name" : "Handstand",
-                    "description": "Handstand (Adho Mukha Vrksasana) has become a glorified yoga pose that can exclude many from feeling as though their practice is up to par. It's important to remember that it doesn't matter how perfect your Handstand Pose looks, especially on Instagram. If you never get away from the wall, it's actually not such a big deal—you get the benefits of the inversion either way.",
-                    "time" : "1.5 Min",
-                    "image": "https://media1.popsugar-assets.com/files/thumbor/ebaqskJLKf_TJ-C_qJR2yS3Ctvo/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2016/10/31/649/n/1922729/84005cd0581756accefb01.88164494_edit_img_image_7676437_1453065000/i/Learn-How-Do-Handstand.jpg",
-                    "benefits" : "Improves postural and body awareness. Improves circulation—lymphatic and venous Can help reduce swelling in your ankles and feet Can boost energy and fight fatigue. Can help build confidence and empowerment. Improves posture and counteracts the effects of sitting and computer work Mainly strengthens your core, back, chest, arms, shoulders, thighs, buttocks (gluteals)",
-                    "variations": "N/A",
-                    "category": "Advanced",
-                    "target": "Improves postural and body awareness.",
-                    "steps": "Begin with your mat at the wall in Adho Mukha Svanasana, with the fingertips about 5 inches from the wall\nPractice all the classic AMS hand, arm and shoulder actions.\nOn an inhale, rock forward so the shoulders stack directly over the wrists.\nFix the gaze on a point between and slightly ahead of the index fingertips.\nIf the hips are not well higher than the shoulders, walk the feet in a couple of inches.\nOn an exhale, step one foot about 1/3 of the way to the hands.\nPoint the second foot, keeping the leg absolutely straight and neutral.\nAt the end of the exhale, push off the forward foot to propel the pelvis and legs to the wall.\nOnce both feet are up the wall, flex the ankles and climb the heels up any amount higher.\nSpin the inner thighs towards the wall and take the flesh of the buttocks towards the heels.\nDirect the front ribs towards the frontal hipbones.\nHold for 5-10 breaths, then, keeping one leg at the wall for as long as possible, release the opposite leg lightly to the floor and hang in a soft Uttanasa (Standing Forward Bend)."
-                },
-            
-                {
-                    "sanskrit_name" : "Salabhasana",
-                    "english_name" : "Locust Pose",
-                    "description": "Grouped among the so-called baby backbends, which includes Dhanurasana (Bow Pose) and Sea Monster Pose (described in the Variations section below), it is an unassuming pose that, like other seemingly simple poses, is actually a lot more interesting and challenging than it appears at first glance.",
-                    "time" : "1.5 Min",
-                    "image": "https://www.ekhartyoga.com/media/image/articles/esther-ekhartlocust.jpg",
-                    "benefits" : "Strengthens the muscles of the spine, buttocks, and backs of the arms and legs. Stretches the shoulders, chest, belly, and thighs. Improves posture. Stimulates abdominal organs. Helps relieve stress",
-                    "variations": "N/A",
-                    "category": "Beginner",
-                    "target": "Strengthens the muscles of the spine, buttocks.",
-                    "steps": "Breathing in, raise the right leg up. Keep the leg straight and do not twist the hip.\nHold and keep breathing.\nBreathing out, bring the right leg down.\nRepeat steps 3-5 with the left leg. Take 2-3 deep breaths.\nBreathing in, and with some momentum, lift both legs up, as high as possible, keeping the knees straight.\nHold.\nBreathing out, bring the legs down, take the arms out from underneath, and rest.\nRepeat the above sequence with hands facing down in step 2."
+                    "sanskrit_name" : "Eka Pada Rajakapotasana",
+                    "english_name" : "One-Legged King Pigeon Pose",
+                    "description":"The full pose, which is suitable for intermediate students, will be described in the Full Pose section below. First we’ll practice the leg position only, which should be accessible to most experienced beginners. (aa-KAH pah-DAH rah-JAH-cop-poh-TAHS-anna)eka = one pada = foot or leg raja = king kapota = pigeon or dove.",
+                    "time" : "1 Min",
+                    "image": "https://cdn.lessons.com/assets/images/courses/yoga/one-legged-king-pigeon-yoga-pose.jpg",
+                    "benefits" : "This strong backbend helps stretch the abdominals, chest, and shoulders while strengthening the arms and the posterior chain of the body, particularly the spinal erectors that help with maintaining good posture. Most of us spend a lot of time sitting at a desk, with our shoulders rolled forward, neck tilted down, and generally slumped without much engagement of the abs or low back. This pose can help reset good posture and encourage proper alignment. Proper alignment and good posture can help reduce the incidence of low back pain. Plus, stretching and opening the chest and shoulders just feels good.",
+                    "variations":"N/A",
+                    "category":"Intermediate",
+                    "target":"Improves posture.",
+                    "steps":"From Downward Facing Dog, bring the right leg up into a Down Dog Split.\nBend your right knee and bring that leg forward as if you were going to step into a lunge. Instead of placing your foot down as you would for a lunge, bring your right knee to the floor on the outside of your right hand. The right shin may angle back towards the left hip or be more parallel to the front of your mat, depending on your range of motion.\nRelease your left knee to your mat. Your left leg should be flat on the floor. Take a look backward and make sure that your left foot is pointing straight back.\nSquare your hips towards the front of your mat.\nTake padding (a folded blanket works well) under the right side of your hip as necessary to make the pose more comfortable.3\nIf you feel stable, bring your torso down into a forward bend over your right leg.\nKeep hips square and weight balanced equally on both sides as best you can. If this feels too intense, place a blanket or block or under the hip or back knee. Reach your forehead toward the floor.\nContinue squaring your hips and breathing into any tightness.5\nCome back up, bringing your hands in line with your hips.\nTo release, curl your left toes under and step back into a Downward Facing Dog.\nRepeat the pose on the other side."
                 }
-
+                
             ]
         }
 
