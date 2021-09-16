@@ -2,7 +2,8 @@
 
 🚀 Access the api from : https://priyangsubanerjee.github.io/yogism/yogism-api.json
 
-\n\n
+<br>
+<br>
 
 # JSON Structure
 
