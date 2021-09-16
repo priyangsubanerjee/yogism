@@ -1,7 +1,7 @@
 # The best Yoga Api available on the internet.
 <br>
 🚀 Access the api from : https://priyangsubanerjee.github.io/yogism/yogism-api.json <br><br>
-🔗 Connect with me : https://codewithpriyangsu.web.app <br>
+🔗 Connect with me : https://codewithpriyangsu.web.app <br><br>
 ⚡️ Dwonload the yogism mobile app : [ Link will be updated soon ] <br>
 
 <br>
