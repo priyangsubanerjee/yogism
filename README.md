@@ -2,11 +2,11 @@
 <br>
 Access the api from : https://bit.ly/3EnOZRz
 🔗 Connect with me : https://codewithpriyangsu.web.app <br><br>
-⚡️ Dwonload the yogism mobile app : [ Link will be updated soon ] <br>
+⚡️ Dwonload the yogism mobile app : [ Link will be updated soon ] <br><br>
 
+# API Key
 
-    
-        Access the api from : https://priyangsubanerjee.github.io/yogism/yogism-api.json
+    https://priyangsubanerjee.github.io/yogism/yogism-api.json
     
 
 
