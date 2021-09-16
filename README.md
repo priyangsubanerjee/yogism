@@ -4,7 +4,7 @@
 
 
 
-# JSON Structure
+#JSON Structure
 
     {
 
